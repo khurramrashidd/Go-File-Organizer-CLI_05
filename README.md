@@ -65,9 +65,8 @@ go run main.go
 Then enter the folder path you want to organize.
 
 ---
-
 ## 📸 Example
-```
+
 <img width="1046" height="157" alt="image" src="https://github.com/user-attachments/assets/2425400a-d1da-43ac-be42-ef4dbb925ee9" />
 ---
 
